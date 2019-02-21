@@ -1,0 +1,9 @@
+*.iml
+.idea/
+**/target/
+**/node/
+**/node_modules/
+**/coverage/
+**/documentation/
+jacoco-it.exec
+jacoco.exec
